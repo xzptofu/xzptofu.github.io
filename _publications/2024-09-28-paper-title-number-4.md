@@ -3,10 +3,10 @@ title: "Online Non-convex Learning in Dynamic Environments"
 collection: publications
 category: conferences
 permalink: /publication/2024-09-28-paper-title-number-4
-excerpt: '\\(a^2 + b^2 = c^2\\)'
+excerpt: 'This paper considers the problem of online learning with non-convex loss functions in dynamic environments. Recently, Suggala and Netrapalli \[2020\] demonstrated that follow the perturbed leader (FTPL) can achieve optimal regret for non-convex losses, but their results are limited to static environments. In this research, we examine dynamic environments and choose <i>dynamic regret</i> and <i>adaptive regret</i> to measure the performance. First, we propose an algorithm named FTPL-D by restarting FTPL periodically and establish \\(O(T^\frac{2}{3}(V_T+1)^\frac{1}{3})\\) dynamic regret with the prior knowledge of \\(V_T\\), which is the variation of loss functions. In the case that \\(V_T\\) is unknown, we run multiple FTPL-D with different restarting parameters as experts and use a meta-algorithm to track the best one on the fly. To address the challenge of non-convexity, we utilize randomized sampling in the process of tracking experts. Next, we present a novel algorithm called FTPL-A that dynamically maintains a group of FTPL experts and combines them with an advanced meta-algorithm to obtain \\(O(\sqrt{\tau\log{T}})\\) adaptive regret for any interval of length \\(\tau\\). Moreover, we demonstrate that FTPL-A also attains an \\(\tilde{O}(T^\frac{2}{3}(V_T+1)^\frac{1}{3})\\) dynamic regret bound. Finally, we discuss the application to online constrained meta-learning and conduct experiments to verify the effectiveness of our methods.'
 date: 2024-09-28
 venue: 'Advances in Neural Information Processing Systems 37 (<strong>NeurIPS 2024</strong>), Vancouver, Canada'
-paperurl: '<!--http://academicpages.github.io/files/paper3.pdf-->'
+paperurl: ''
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
