@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Online Non-convex Learning in Dynamic Environments"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-09-28-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2024-09-28
+venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Vancouver, Canada'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
