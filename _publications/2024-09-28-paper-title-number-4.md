@@ -3,7 +3,7 @@ title: "Online Non-convex Learning in Dynamic Environments"
 collection: publications
 category: conferences
 permalink: /publication/2024-09-28-paper-title-number-4
-excerpt: ''
+excerpt: 'Zhipan Xu'
 date: 2024-09-28
 venue: 'Advances in Neural Information Processing Systems 37 (<strong>NeurIPS 2024</strong>), Vancouver, Canada'
 citation: ''
