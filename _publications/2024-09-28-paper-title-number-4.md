@@ -1,4 +1,4 @@
-s---
+---
 title: "Online Non-convex Learning in Dynamic Environments"
 collection: publications
 category: conferences
