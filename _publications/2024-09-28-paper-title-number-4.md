@@ -6,6 +6,7 @@ permalink: /publication/2024-09-28-paper-title-number-4
 date: 2024-09-28
 excerpt: ''
 venue: 'Advances in Neural Information Processing Systems 37 (<strong>NeurIPS 2024</strong>), Vancouver, Canada'
+paperurl: 'http://academicpages.github.io/files/Online Non-convex Learning in Dynamic Environments.pdf'
 citation: '<strong>Zhipan Xu</strong> and Lijun Zhang. <strong>Online Non-convex Learning in Dynamic Environments</strong>. In <i>Advances in Neural Information Processing Systems 37<!i>, pages to appear, 2024'
 ---
 
