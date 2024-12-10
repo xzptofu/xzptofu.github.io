@@ -4,9 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024-09-28-paper-title-number-4
 date: 2024-09-28
-excerpt: ''
+excerpt: '<img src='/images/Poster.png'>'
 venue: 'Advances in Neural Information Processing Systems 37 (<strong>NeurIPS 2024</strong>), Vancouver, Canada'
-slidesurl: 'http://xzptofu.github.io/files/Poster_Online_Nonconvex_Learning_in_Dynamic_Environments.png'
 paperurl: 'http://xzptofu.github.io/files/Online_Nonconvex_Learning_in_Dynamic_Environments.pdf'
 citation: '<strong>Zhipan Xu</strong> and Lijun Zhang. <strong>Online Non-convex Learning in Dynamic Environments</strong>. In <i>Advances in Neural Information Processing Systems 37<!i>, pages to appear, 2024'
 ---
