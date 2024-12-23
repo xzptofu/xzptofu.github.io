@@ -6,7 +6,7 @@ permalink: /publication/2024-09-28-paper-title-number-4
 date: 2024-09-28
 excerpt: "<strong>Zhipan Xu</strong> and Lijun Zhang."
 venue: 'Advances in Neural Information Processing Systems 37 (<strong>NeurIPS 2024</strong>), Vancouver, Canada'
-paperurl: 'http://xzptofu.github.io/files/Online_Nonconvex_Learning_in_Dynamic_Environments.pdf'
+paperurl: 'http://xzptofu.github.io/files/NeurIPS-2024-Xu.pdf'
 posterurl: 'http://xzptofu.github.io/images/NeurIPS-24-Xu-Poster.png'
 ---
 
